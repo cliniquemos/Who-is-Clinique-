@@ -41,5 +41,4 @@ Full-stack engineer with 6+ years of experience building scalable apps using Rea
 
 ## Let’s Connect
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/cliniquems)  
 [Email me](mailto:stephenscs95@gmail.com)
