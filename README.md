@@ -2,7 +2,7 @@
 Full-stack engineer with 6+ years of experience building scalable apps using React, .NET Core, SQL, and Python. Strong background in Azure cloud, automation, and data-driven solutions. Delivered enterprise tools at IBM and Accenture for clients like Truist Financial and AT&amp;T.
 
 
-Skills & Tools:
+## Skills & Tools:
 
 **Cloud Platforms:** Microsoft Azure, Azure Functions, Azure DevOps, Azure Logic Apps  
 **Languages & Scripting:** C#, JavaScript, Python, TypeScript, SQL  
@@ -14,7 +14,7 @@ Skills & Tools:
 
 ---
 
-## 🔧 Projects:
+## Projects:
 
 - **Internal Workflow Automation Tool** – React + .NET Core + SQL (IBM)  
 - **Financial Data Portal** – Built React UI + APIs for data processing (Truist Financial)  
@@ -23,14 +23,14 @@ Skills & Tools:
 
 ---
 
-## 📜 Certifications:
+## Certifications:
 
 - AZ-900: Microsoft Azure Fundamentals  
 - AZ-204: Azure Developer Associate  
 
 ---
 
-## 📈 Currently Working On:
+## Currently Working On:
 
 - Deepening Kubernetes & container orchestration knowledge  
 - Sharpening cloud monitoring with Azure Monitor & Application Insights  
@@ -39,7 +39,7 @@ Skills & Tools:
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/cliniquems)  
-📬 Email: stephenscs95@gmail.com  
+[Email me](mailto:stephenscs95@gmail.com)
