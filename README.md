@@ -5,7 +5,7 @@ Full-stack engineer with 6+ years of experience building scalable apps using Rea
 ## Skills & Tools:
 
 **Cloud Platforms:** Microsoft Azure, Azure Functions, Azure DevOps, Azure Logic Apps  
-**Languages & Scripting:** C#, JavaScript, Python, TypeScript, SQL  
+**Languages & Scripting:** C#, JavaScript, Python, TypeScript, PostgreSQL  
 **Frameworks & Libraries:** .NET Core/8, React, GraphQL, NestJS, Redux  
 **Databases:** PostgreSQL, MSSQL, MySQL  
 **DevOps & Infrastructure:** GitHub Actions, Docker, Kubernetes (learning), CI/CD pipelines  
